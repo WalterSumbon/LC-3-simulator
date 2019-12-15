@@ -8,7 +8,7 @@
 
 LC-3出自《计算机系统概论(第二版)》一书，是一个图灵完备的16位计算机，内置了2<sup>10</sup>*16 bit的内存和8个16位的寄存器。  
 指令集如下图：  
-![ISA ](C:\Users\Lenovo\Documents\学习资料\Courses\模拟与数字电路实验\10\ISA.png)
+![ISA ](https://github.com/WalterSumbon/LC-3-simulator/blob/master/ISA.png)
 
 ### 操作说明：  
 为了为下文的介绍做铺垫，先介绍一些理解交互操作所需的程序变量：
